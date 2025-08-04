@@ -7,4 +7,8 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
+  base: '/', // important for GitHub Pages with a custom domain
+  build: {
+    outDir: 'docs', // output folder for GitHub Pages
+  },
 });
