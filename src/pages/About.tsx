@@ -22,14 +22,14 @@ const About = () => {
       bio: "Specializes in creating robust WordPress solutions and full-stack applications with modern technologies.",
       image: PavanImg
     },
-    {
-      name: "G. Balaji",
-      role: "Full Stack Developer",
-      experience: "2 years in Full Stack Development",
-      skills: ["React", "Firebase", "JavaScript", "API Integration"],
-      bio: "Passionate about building scalable web applications with Firebase and React.",
-      image: BalajiImg
-    },
+    // {
+    //   name: "G. Balaji",
+    //   role: "Full Stack Developer",
+    //   experience: "2 years in Full Stack Development",
+    //   skills: ["React", "Firebase", "JavaScript", "API Integration"],
+    //   bio: "Passionate about building scalable web applications with Firebase and React.",
+    //   image: BalajiImg
+    // },
     {
       name: "Akhil",
       role: "WordPress Developer",
